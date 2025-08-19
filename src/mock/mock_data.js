@@ -479,9 +479,14 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1755591689902",
+      "icon": "🔍",
+      "name": "搜索引擎",
+      "order": 0,
+      "sites": []
     }
   ],
-  "title": "云址星",
-  "search": "baidu",
-  "_fileSha": "def68a8353711a579f48ced37ae8f7a355df6b29"
+  "title": "云址星"
 }
